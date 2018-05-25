@@ -17,7 +17,7 @@ $ ? 			. . .		Network Security Specialist
 $237,600	  	. . .		July 1 - December 31 Production level II  
 10,240 TRX  	. . .		Promotional contest  
 20,000 TRX		. . .		Colradi task bonus  
-$30,000	. . .		Jason Neely salary from June 27 - December 31 (2.6%)  
+$30,000	. . .		Jason Neely salary from June 27 - December 31 (2.2%)  
 ? TRX				. . .		Other Contests and Promotions  
 
 $271,720 + 20,000 TRX = Total Expenses from June 27 - December 31 2018 
