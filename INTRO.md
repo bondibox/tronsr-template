@@ -14,6 +14,6 @@ Telegram:
 Twitter:
 [@community_node](https://twitter.com/community_node)
 
-GitHub:  
+GitHub:
 [https://github.com/bondibox/community-node/](https://github.com/bondibox/community-node/)  
 
