@@ -5,10 +5,10 @@ $15          	. . .		Domain Registration CommunityNode.org
 $20          	. . .		 May 1 - May 28 alpha configuration  
 $200         	. . .		 May 29 - June 26 beta configuration  
 100,000 TRX  	. . .		 Super Representative Application Fee  
-									------------------  
+		
 $235 + 100,000 TRX = Total expenses May 1 - June 26
 
-
+							------------------  
 
 **`• Budget Expenditure and Technical Plan after June 26`**  
 $4,140  		. . .		June 27 - June 30 Production level I  
