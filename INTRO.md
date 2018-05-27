@@ -8,8 +8,10 @@ We have developed a [Rewards Plan](https://github.com/bondibox/community-node/bl
 
 | Today's Reward per Vote | 0.000000 TRX |
 | ----------- | ----------- |
-| Rewards Account | 0 |
-| Reward Pool | 0 |
+| Rewards Account | 0 |  
+| Reward Pool | 0 |  
+
+
 
 Website:
 [tron.communitynode.org](http://tron.communitynode.org)
