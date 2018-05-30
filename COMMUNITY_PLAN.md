@@ -2,7 +2,7 @@ We have created a staging network which is a replica of the Tron network and whi
 
 We will create a How To demonstration for a simple dapp game that flips a coin and pays tokens when guessed correctly. Users can upload this dapp to the staging network to experience the same functionality as the Tron main net.
 
-We have entered into a strategic partnership with the Sesame Seeds SR Group to provide community support on a broader level than either of us is able to provide on our own. Together we are operating a [TRON Help Group](https://t.me/joinchat/IN2p-BK-bWl1zSbN7L5zEQ) at Telegram to answer questions related to the Tron main net. 
+We have entered into a strategic partnership with the Sesame Seeds SR Group to provide community support on a broader level than either of us is able to provide on our own. Together we are operating a [TRON Help Group](https://t.me/TronHelp) at Telegram to answer questions related to the Tron main net. 
 
 We have contributed to the Tron Wiki and have pushed one set of changes.  
 
