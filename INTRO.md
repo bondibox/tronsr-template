@@ -25,7 +25,7 @@ In real terms, that means the payout pool will be about 40,000 TRX every day we 
 
 When the Payout Account has 4 million TRX in it, the Daily Payout Pool will be equal to the Daily Contribution and the Daily Payout will cap out at exactly 80% of node rewards, or about 80,000 TRX per day.
 
-When the Super Representative Program ends in 2012, we will use all of the expertise we've gained to continue to run the Tron network. When the program ends, we will spend the entire 4 Million TRX that we've accrued in the Payout Account to buy hardware infrastructure on an enterprise level.
+When the Super Representative Program ends in 2021, we will use all of the expertise we've gained to continue to run the Tron network. When the program ends, we will spend the entire 4 Million TRX that we've accrued in the Payout Account to buy hardware infrastructure on an enterprise level.
 
 
 | Effective Yield | 5863% Annual |  
