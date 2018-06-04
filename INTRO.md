@@ -19,8 +19,11 @@ GitHub:
 
 We have developed a [Rewards Plan](https://github.com/bondibox/community-node/blob/master/doc/rewards_plan.md) for the TRX voters who elect us to SR position. We will deposit 80% of block rewards into a *Rewards Account* from which we draw 2% per day for the *Daily Rewards Pool*, which is divided per-vote. The actual reward per vote is adjusted slightly for every voter based on their participation rate, and adjusted daily when actual payouts exceed the Reward Pool.
 
-| Today's Reward per Vote  | 0.160646191899413 TRX |
-| ----------- | ----------- |
 | Effective Yield | 5863% Annual |  
-| Rewards Account | 99760 |  
+| ----------- | ----------- |
+| Date | 3 June 2018 |  
+| Date Vote Total | 310496 |  
+| Rewards Claimed | 124700 |
+| Rewards Account Contribution | 99760 |  
 | Reward Pool | 49880 |  
+| Today's Reward per Vote  | 0.160646191899413 TRX |
