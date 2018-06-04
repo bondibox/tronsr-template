@@ -21,6 +21,6 @@ We have developed a [Rewards Plan](https://github.com/bondibox/community-node/bl
 
 | Today's Reward per Vote  | 0.160646191899413 TRX |
 | ----------- | ----------- |
-| Effective Yield | 58.6% Annual |  
+| Effective Yield | 5863% Annual |  
 | Rewards Account | 99760 |  
 | Reward Pool | 49880 |  
