@@ -15,11 +15,6 @@ We will monitor the performance of this initial configuration and re-engineer ac
 Additional worker nodes will be deployed upon request by Tron Labs.
 
 
-5 Worker nodes
- Gateway 
-2 Trusted Nodes
-witness node
-
 
 
 | Name | GATEWAY NODE |
