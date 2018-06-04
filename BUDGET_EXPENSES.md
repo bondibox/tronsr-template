@@ -24,13 +24,14 @@ $154,740 + 20,000 TRX = Total Expenses from June 27 - December 31 2018
 
 
 
+Our primary server cluster Instance will provide **248 Cores + 1292 GB RAM + 24 TB SSD** for the Tron Virtual Machine:  
 
-Our primary server cluster Instance will provide 196 Cores + 1 TB RAM + 20 TB SSD for the Tron Virtual Machine:  
-1x GATEWAY NODE $960 each  
-2x TRUSTED NODE $160 each  
-5x WORKER NODE $960 each  
-1x WITNESS NODE $240 each
+1x Witness Node $160 each  
+6x Sentry Node $160 each  
+1x High Mem High I/O NODE $960 each  
+1x High CPU High I/O Node $960 each  
+9x Worker Nodes $320 each
 
-					                    
-$10960 + .02¢ per GB data transfer. 
-Estimated monthly expense $20,000
+                                               
+$5920 + .02¢ per GB data transfer after the first 320 TB.  
+Estimated monthly expense $10,000
