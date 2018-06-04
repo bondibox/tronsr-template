@@ -24,7 +24,7 @@ Every day, we will draw the greater of 50% of the Daily Contribution or 2% of th
 In real terms, that means the payout pool will be about 40,000 TRX every day we win, until we've got 2,000,000 TRX saved in the Rewards Account.
 Then, the Daily Reward Pool will grow steadily until it reaches 4 million TRX and the amount going out will be equal to the amount going in.
 
-When the Super Representative Program ends in 2012, we will use all of the expertise we've gained to continue to run the Tron network. When the program ends, we will spend the entire 4 million TRX that we've accrued in the Payout Account to buy hardware infrastructure on an enterprise level. If you'll excuse our optimism, we believe that will be worth considerably more than the $250,000 it is worth as of the date of this writing.
+When the Super Representative Program ends in 2012, we will use all of the expertise we've gained to continue to run the Tron network. When the program ends, we will spend the entire 4 million TRX that we've accrued in the Payout Account to buy hardware infrastructure on an enterprise level.
 
 
 | Effective Yield | 5863% Annual |  
