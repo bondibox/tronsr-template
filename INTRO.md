@@ -19,7 +19,7 @@ GitHub:
 
 We have developed a [Rewards Plan](https://github.com/bondibox/community-node/blob/master/doc/rewards_plan.md) for the TRX voters who elect us to SR position. We will deposit 80% of block rewards into a *Payout Account*, this is called the *Daily Contribution*. 
 
-Every day, we will draw the greater of 50% of the Daily Contribution or 2$ of the Payout Account from the Payout Account for the *Daily Payout Pool*, which is divided per-vote. The actual reward per vote is adjusted slightly for every voter based on their participation rate, and adjusted daily when actual payouts exceed the Payout Pool.
+Every day, we will draw the greater of 50% of the Daily Contribution or 2% of the Payout Account from the Payout Account for the *Daily Payout Pool*, which is divided per-vote. The actual reward per vote is adjusted slightly for every voter based on their participation rate, and adjusted daily when actual payouts exceed the Payout Pool.
 
 In real terms, that means the payout pool will be about 40,000 every day we win, until we've got 2,000,000 TRX saved in the Rewards Account.
 Then, the Daily Reward Pool will grow steadily until it reaches 4 million TRX then the amount going out will be equal to the amount going in.
