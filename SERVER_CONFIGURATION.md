@@ -1,6 +1,7 @@
 We will be building our primary cluster instance at the Linode data center in Atlanta Georgia, USA., where they offer an OC768 incoming network connection, with 40 Gbps in and 10 Gbps out. We believe that the incoming network connection will be critical for the Super Representative nodes.
 
-Because the Tron Virtual Machine acts like a gigantic symmetric multiprocessor, we do not need one gigantic server instance, instead we will be building a cluster of server instances each with a specific task.
+Because the Tron Virtual Machine acts like one big symmetric multiprocessor cluster, we do not need a one-size-fits-all server instance, instead we will be building several server instances each with a specific task.
+
 
 It should be noted that since each node has a guaranteed throughput network connection, total bandwidth is the sum of all the nodes output.
 
