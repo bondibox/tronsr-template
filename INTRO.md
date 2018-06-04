@@ -29,7 +29,7 @@ When the Super Representative Program ends in 2021, we will use all of the exper
 
 
 | Effective Yield | 5863% Annual |  
-| ----------- | ----------- |
+| -------------------- | -------------------- |
 | Date | 3 June 2018 |  
 | Date Vote Total | 310496 |  
 | Rewards Claimed | 124700 |
