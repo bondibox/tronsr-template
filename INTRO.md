@@ -25,7 +25,7 @@ We have developed a [Rewards Plan](https://github.com/bondibox/community-node/bl
 | Date Vote Total | 310496 |  
 | Rewards Claimed | 124700 |
 | Daily Contribution | 99760 |  
-| Rewards Account Total | 99760 |  
-| Reward Pool | 49880 |  
+| Payout Account Total | 99760 |  
+| Payout Pool | 49880 |  
 | Today's Reward per Vote  | 0.160646191899413 TRX |
-| Rewards Account Balance | 49880 | 
+| Payout Account Balance | 49880 | 
