@@ -8,7 +8,7 @@ It should be noted that since each node has a guaranteed throughput network conn
 Our primary deployment will provide **248 Cores + 1292 GB RAM + 24 TB SSD** for the Tron Virtual Machine:  
 
 1x Witness Node $160 each  
-6x Sentry Node $160 each  
+6x Sentry Nodes $160 each  
 1x High Mem High I/O NODE $960 each  
 1x High CPU High I/O Node $960 each  
 9x Worker Nodes $320 each
