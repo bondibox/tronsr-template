@@ -5,7 +5,7 @@ Because the Tron Virtual Machine acts like one big symmetric multiprocessor clus
 
 It should be noted that since each node has a guaranteed throughput network connection, total bandwidth is the sum of all the nodes' output.
 
-Our primary server cluster Instance will provide **248 Cores + 1292 GB RAM + 24 TB SSD** for the Tron Virtual Machine:  
+Our primary deployment will provide **248 Cores + 1292 GB RAM + 24 TB SSD** for the Tron Virtual Machine:  
 
 1x Witness Node $160 each  
 6x Sentry Node $160 each  
