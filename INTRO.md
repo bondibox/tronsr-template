@@ -35,6 +35,7 @@ When the Super Representative Program ends in 2021, we will use all of the exper
 | Rewards Claimed | 124700 |
 | Daily Contribution | 99760 |  
 | Payout Account Total | 99760 |  
+| Election Won? | YES! |
 | Payout Pool | 49880 |  
 | Today's Reward per Vote  | 0.160646191899413 TRX |
 | Payout Account Balance | 49880 | 
