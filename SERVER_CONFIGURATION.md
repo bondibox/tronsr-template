@@ -3,7 +3,7 @@ We will be building our primary cluster instance at the Linode data center in At
 Because the Tron Virtual Machine acts like one big symmetric multiprocessor cluster, we do not need a one-size-fits-all server instance, instead we will be building several server instances each with a specific task.
 
 
-It should be noted that since each node has a guaranteed throughput network connection, total bandwidth is the sum of all the nodes output.
+It should be noted that since each node has a guaranteed throughput network connection, total bandwidth is the sum of all the nodes' output.
 
 Our primary server cluster Instance will provide **248 Cores + 1292 GB RAM + 24 TB SSD** for the Tron Virtual Machine:  
 
