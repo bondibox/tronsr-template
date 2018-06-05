@@ -28,16 +28,17 @@ When the Payout Account has 4 million TRX in it, the Daily Payout Pool will be e
 When the Super Representative Program ends in 2021, we will use all of the expertise we've gained to continue to run the Tron network. When the program ends, we will spend the entire 4 Million TRX that we've accrued in the Payout Account to buy hardware infrastructure on an enterprise level.
 
 If this plan works as designed, we will have developed *both* the first rock solid cryptocurrency denominated investment with an advertised daily interest rate which to date has not missed a payment since day 3 of testing, **and** a hardware investment in the Tron network that is, at a minimum, equal to 4 Million TRX in 2021 dollars. 
+324899
 
-
-| Effective Yield | 5863% Annual |  
+| Effective Yield | 138% Annual |  
 | -------------------- | -------------------- |
 | Date | 3 June 2018 |  
-| Date Vote Total | 310496 |  
-| Rewards Claimed | 124700 |
-| Daily Contribution | 99760 |  
-| Payout Account Total | 99760 |  
-| Election Won? | YES! |
-| Payout Pool | 49880 |  
-| Today's Reward per Vote  | 0.160646191899413 TRX |
-| Payout Account Balance | 49880 | 
+| Account Balance | 49880 | 
+| Date Vote Total | 324899 |  
+| Rewards Claimed | 14820 |
+| Daily Contribution | 11856 |  
+| Update Account Balance | 61736 |  
+| Election Won? | no |
+| Payout Pool | 1234.72 TRX |  
+| Today's Reward per Vote  |  0.003800319483901 TRX |
+| Update Account Balance | 60501.28 | 
