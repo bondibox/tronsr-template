@@ -2,20 +2,19 @@ We will be building our primary cluster instance at the Linode data center in At
 
 Because the Tron Virtual Machine acts like one big symmetric multiprocessor cluster, we do not need a one-size-fits-all server instance, instead we will be building several server instances each with a specific task.
 
+A Super Representative faces two technical responsibilities. The mission critical component is running a well protected Witness Node. Then you must make available lots of flops and storage for TVM the Tron Virtual Machine.
 
-It should be noted that since each node has a guaranteed throughput network connection, total bandwidth is the sum of all the nodes' output.
+Our Primary cluster surrounds our Witness node with 6 Sentry nodes, which connect to the Witness via an IPSec tunnel. This cloaks the witness from the outside world, and allows it to advertise a private IP address. The 6 Sentry nodes act as the point of contact for the witness node, meaning a successful DDoS attack would have to discover and compromise all 6 Sentries. The Sentries will then be surrounded by unprotected Full Nodes which do the heavy lifting of the network. 8 of these nodes are configured to provide the most resources per dollar, and 4 are provisioned with 40/10 Gbps network connections for a total of more than 50 Gbps outbound bandwidth, since total bandwidth is the sum of all the nodes' guaranteed throughput.
 
-Our primary deployment will provide **248 Cores + 1292 GB RAM + 24 TB SSD** for the Tron Virtual Machine:  
+Our primary deployment will provide **280 Cores + 1620 GB RAM + 23 TB SSD** for the Tron Virtual Machine:  
 
 1x Witness Node $160 each  
 6x Sentry Nodes $160 each  
-1x High Mem High I/O Node $960 each  
-1x High CPU High I/O Node $960 each  
-9x Worker Nodes $320 each
+2x High Mem High I/O Node $960 each  
+2x High CPU High I/O Node $960 each  
+8x Worker Nodes $320 each
 
-                                               
-$5920 + .02¢ per GB data transfer after the first 320 TB.  
-Estimated monthly expense $10,000
+$7520 + .02¢ per GB data transfer after the first 330 TB. For every .04¢ gain in TRX price we will add another cluster.
 
 
 
