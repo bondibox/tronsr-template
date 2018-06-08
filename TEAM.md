@@ -24,7 +24,7 @@ Role: Application Education
 
 ## Team Member 3
 
-Name: Duane Harrison
+Name: [Duane Harrison](https://github.com/bondibox/community-node/blob/master/sr_application/duane_harrison.jpg)
 Role: UX Designer
 
 > Duane Harrison is a lead designer for one of the world’s largest airlines. Prior to this he has worked with a number of startups, overseeing and contributing to the design of mobile and web apps, one of which has featured in Apple’s WWDC keynote. Now based in Hong Kong, he is looking towards digital transformation in the financial space and sees huge potential in future applications that build on the Tron network.
