@@ -49,7 +49,7 @@ $7520 + .02¢ per GB data transfer after the first 330 TB. For every .04¢ gain 
 | Network  |          40/2 Gbps  | 	
 | Transfer | 16 TB |
 | Cost |      $160 month| 
-| Purpose |   IPSec Tunneled Witness & Witness Border Nodes  | 
+| Purpose |   IPSec Tunneled Witness & Reverse Proxies  | 
          
 
              
