@@ -9,8 +9,8 @@ Our Primary cluster will surround our Witness node with 6 Sentry nodes, which co
 Currently we are starting with the following setup:
 
 1 Primary Witness Node 32 Cores  
-1 Backup Witness Node 16 Cores
-1 Solidity Node 8 Cores
+1 Backup Witness Node 16 Cores  
+1 Solidity Node 8 Cores  
 
 For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 
@@ -26,18 +26,18 @@ For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 | Transfer |  20 TB |
 | Cost |         960 month |
 | Purpose | High CPU / High bandwidth node |  
+<br />
 
-
-| Backup Witness  |
-|---|---|
-| RAM | 	64 GB 
-| CPU  | 	16 Cores
-| SSD  | 	1280 GB 
-| Network  | 	40/4 Gbps 
-| Transfer | 20 TB |
-| Cost | 	$320 month 
+| Backup Witness  |  
+|---|---|  
+| RAM | 	64 GB  
+| CPU  | 	16 Cores  
+| SSD  | 	1280 GB  
+| Network  | 	40/4 Gbps  
+| Transfer | 20 TB |  
+| Cost | 	$320 month   
 | Purpose |  Lowest Resource Cost | 
-
+<br />
 
 | Solidity Node  | 
 |---|---|
