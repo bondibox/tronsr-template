@@ -11,9 +11,9 @@ $235 + 9,599 TRX = Total expenses May 1 - June 26
 
 We launched our primary cluster in production on June 26:  
 
-1x Witness Node $960  per month
-1x Backup Witness $320 per month
-1x Solidity Node $160 per month
+1x Witness Node $960  per month  
+1x Backup Witness $320 per month  
+1x Solidity Node $160 per month  
 
 
 **`• Budget Expenditure and Technical Plan after June 26`**  

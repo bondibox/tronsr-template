@@ -8,9 +8,9 @@ Our Primary cluster will surround our Witness node with 6 Sentry nodes, which co
 
 Currently we are starting with the following setup:
 
-1 Primary Witness Node 32 Cores  
-1 Backup Witness Node 16 Cores  
-1 Solidity Node 8 Cores  
+1 Primary Witness Node   
+1 Backup Witness Node 
+1 Solidity Node  
 
 For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 
