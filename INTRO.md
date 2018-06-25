@@ -19,7 +19,7 @@ GitHub:
 
 We have developed a [Rewards Plan](https://github.com/bondibox/community-node/blob/master/doc/rewards_plan.md) for the TRX voters who elect us to SR position. 
 
-We can create a stable, predictable voter payout by putting 80% of everything we earn into a *Payout Account* (a.k.a. the piggy bank), this is called the *Daily Contribution*. And every day we will pay our voters half of the Daily Contribution, or 2% of what's in it, whichever is more. 
+We can create a stable, predictable voter payout by putting 80% of everything we earn into a *Payout Account* (a.k.a. the piggy bank), this is called the *Daily Contribution*. And every day we will pay our voters half of the Daily Contribution, or 2% of what's in the Payout Account, whichever is more. 
 
 In real terms, that means the payout pool will start out at about 15,000 TRX every day we win. If we lose, the daily payout pool will be 2% of the Payout Account Total. When the Payout Account Total equals 650 Million TRX the Daily Payout will be the same whether we win or lose. At that point we will implement our participation bonus which gives a small increase per vote based on a voter's lifetime participation in voting for Community Node.
 
