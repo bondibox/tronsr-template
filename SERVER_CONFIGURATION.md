@@ -24,7 +24,7 @@ For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 | SSD  |         3.8 TB  | 	
 | Network |      40/10 Gbps  | 	
 | Transfer |  20 TB |
-| Cost |         960 month |
+| Cost |         $960 month |
 | Purpose | High CPU / High bandwidth node |  
 <br />
 
@@ -47,7 +47,7 @@ For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 | Network  |          40/2 Gbps  | 	
 | Transfer | 16 TB |
 | Cost |      $160 month| 
-| Purpose |   IPSec Tunneled Witness & Reverse Proxies  | 
+| Purpose |   API for wallet services  | 
          
 
 
