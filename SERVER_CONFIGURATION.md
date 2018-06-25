@@ -26,7 +26,7 @@ For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 | Transfer |  20 TB |
 | Cost |         $960 month |
 | Purpose | High CPU / High bandwidth node |  
-<br />
+
 
 | Backup Witness  |  
 |---|---|  
@@ -37,7 +37,8 @@ For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 | Transfer | 20 TB |  
 | Cost | 	$320 month   
 | Purpose |  Lowest Resource Cost | 
-<br />
+
+
 
 | Solidity Node  | 
 |---|---|
