@@ -43,7 +43,7 @@ If this plan works as designed, we will have developed *both* the first rock sol
 | Today's Reward per Vote  | 0.000010803851989  |
 | Update Account Balance | 32.3279788 | 
 
-Addresses:
+Addresses:  
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
 Payout Account: [TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY](https://tronscan.org/#/address/TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY)  
 Airdrop Address: [TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa](https://tronscan.org/#/address/TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa)  
