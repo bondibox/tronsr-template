@@ -33,12 +33,12 @@ If this plan works as designed, we will have developed *both* the first rock sol
 | Effective Yield | 0.394% Annual |  
 | -------------------- | -------------------- |
 | Date | 30 June 2018 |  
-| Account Balance | 27.7842892 | 
+| Account Balance | 27.784289 | 
 | Date Vote Total | 420562 |  
 | Rewards Claimed | 11.359224  |
-| Daily Contribution | 9.0873792 |  
-| Update Account Balance | 36.8716684 |  
-| 0.737433368 > 4.5436896 | no |
-| Payout Pool | 4.5436896 |  
+| Daily Contribution | 9.087379 |  
+| Update Account Balance | 36.871668 |  
+| 0.737433368 > 4.543689 | no |
+| Payout Pool | 4.543689 |  
 | Today's Reward per Vote  | 0.000010803851989  |
 | Update Account Balance | 32.3279788 | 
