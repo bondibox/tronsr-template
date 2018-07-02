@@ -30,21 +30,21 @@ When the Super Representative Program ends in 2021, we will use all of the exper
 If this plan works as designed, we will have developed *both* the first rock solid cryptocurrency denominated investment with an advertised daily interest rate, **and** a hardware investment in the Tron network that is, at a minimum, equal to 1.3 Million TRX in 2021 dollars. 
 
 
-| Effective Yield | 0.394% Annual |  
+| Effective Yield | 0.686% Annual |  
 | -------------------- | -------------------- |
-| Date | 30 June 2018 |  
-| Account Balance | 27.784289 | 
-| Date Vote Total | 420562 |  
-| Rewards Claimed | 11.359224  |
-| Daily Contribution | 9.087379 |  
-| Update Account Balance | 36.871668 |  
-| 0.737433368 > 4.543689 | no |
-| Payout Pool | 4.543689 |  
-| Today's Reward per Vote  | 0.000010803851989  |
-| Update Account Balance | 32.3279788 | 
+| Date | 01 July 2018 |  
+| Account Balance | 32.327978 | 
+| Date Vote Total | 403254 |  
+| Rewards Claimed | 18.959557  |
+| Daily Contribution | 15.1676456 |  
+| Update Account Balance | 47.4956236 |  
+| 0.949912 > 7.583822 | no |
+| Payout Pool | 7.583822 |  
+| Today's Reward per Vote  | 0.000018806563605 |
+| Update Account Balance | 39.835773 | 
 
 Addresses:  
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
-Payout Account: [TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY](https://tronscan.org/#/address/TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY)  
-Airdrop Address: [TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa](https://tronscan.org/#/address/TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa)  
+Payout Account: [TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa](https://tronscan.org/#/address/TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa)  
+Airdrop Address: [TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY](https://tronscan.org/#/address/TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY)  
 Company Savings: [TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx](https://tronscan.org/#/address/TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx)  
