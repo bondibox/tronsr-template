@@ -45,6 +45,6 @@ If this plan works as designed, we will have developed *both* the first rock sol
 
 Addresses:  
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
-Payout Account: [TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa](https://tronscan.org/#/address/TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa)  
+Payout Account (piggy bank): [TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa](https://tronscan.org/#/address/TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa)  
 Airdrop Address: [TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY](https://tronscan.org/#/address/TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY)  
 Company Savings: [TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx](https://tronscan.org/#/address/TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx)  
