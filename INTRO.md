@@ -30,18 +30,18 @@ When the Super Representative Program ends in 2021, we will use all of the exper
 If this plan works as designed, we will have developed *both* the first rock solid cryptocurrency denominated investment with an advertised daily interest rate, **and** a hardware investment in the Tron network that is, at a minimum, equal to 1.3 Million TRX in 2021 dollars. 
 
 
-| Effective Yield | 0.54% Annual |  
+| Effective Yield | 0.59% Annual |  
 | -------------------- | -------------------- |
-| Date | 03 July 2018 |  
-| Account Balance | 46.136096 | 
-| Date Vote Total | 403120 |  
-| Rewards Claimed | 14.895014   |
-| Daily Contribution | 11.916011 |  
-| Update Account Balance | 58.052107 |  
-| 1.161042156 > 5.9580056 | no |
-| Payout Pool | 5.9580056 |  
-| Today's Reward per Vote  | 0.00001477973209 |
-| Update Account Balance | 52.0941014 | 
+| Date | 04 July 2018 |  
+| Account Balance | 52.0941014 | 
+| Date Vote Total | 617458 |  
+| Rewards Claimed |  25.017161  |
+| Daily Contribution | 20.0137288 |  
+| Update Account Balance | 72.1078302 |  
+| 1.442156604 > 10.0068644 | no |
+| Payout Pool | 10.0068644 |  
+| Today's Reward per Vote  | 0.000016206550729 |
+| Update Account Balance |  | 
 
 
 Addresses:  
