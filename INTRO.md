@@ -31,20 +31,20 @@ If this plan works as designed, we will have developed *both* the first rock sol
 
 In order to make our rewards payouts happen at a consistent time, we will be issuing the airdrop every 36 hours until it has become fully automated. It will include the previous 6 election cycles and will airdrop at 00:00 and 12:00 EST.
 
-2018-07-05:0000 through 2018-07-06:0600
+2018-07-06:1200 through 2018-07-07:1800
 
-| Effective Yield | 0.32% Annual |  
+| Effective Yield | 0.33% Annual |  
 | -------------------- | -------------------- |
-| Date | 05 July 2018 |  
-| Account Balance | 62.1009658 | 
-| Date Vote Total | 828018 |  
-| Rewards Claimed | 17.909854 |
-| Daily Contribution | 14.3278832 |  
-| Update Account Balance | 76.428849 |  
-| 1.52857698 > 7.1639416 | no |
-| Payout Pool | 7.1639416 |  
-| Today's Reward per Vote  | 0.000008651915297 |
-| Update Account Balance | 69.2649074 | 
+| Date | 07 July 2018 |  
+| Account Balance | 69.2649074 | 
+| Date Vote Total | 131690  |  
+| Rewards Claimed | 4.532436 |
+| Daily Contribution | 3.6259488 |  
+| Update Account Balance | 72.8908562 |  
+| 1.457817124 > 1.8129744 | no |
+| Payout Pool | 1.8129744 |  
+| Today's Reward per Vote  | 0.000013766986104 |
+| Update Account Balance | 71.0778818 | 
 
 
 Addresses:  
