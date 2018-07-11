@@ -33,18 +33,18 @@ In order to make our rewards payouts happen at a consistent time, we will be iss
 
 2018-07-08:0000 through 2018-07-09:0600 (inclusive)
 
-| Effective Yield | 1.32% Annual |  
+| Effective Yield | 0.53% Annual |  
 | -------------------- | -------------------- |
-| Date | 09 July 2018 |  
-| Account Balance | 71.0778818 | 
-| Date Vote Total | 26379  |  
-| Rewards Claimed | 0.650615 |
-| Daily Contribution | 0.520492 |  
-| Update Account Balance | 71.5983738 |  
-| 1.431967476 > 0.260246 | YES |
-| Payout Pool | 1.431967476 |  
-| Today's Reward per Vote  | 0.000054284373024 |
-| Update Account Balance | 70.166406324 | 
+| Date | 10 July 2018 |  
+| Account Balance | 70.166406 | 
+| Date Vote Total |  535710 |  
+| Rewards Claimed | 29.133049 |
+| Daily Contribution | 23.306439 |  
+| Update Account Balance | 93.472845 |  
+| 1.869456904 > 11.6532196 | YES |
+| Airdrop Amount | 11.653219 |  
+| Today's Reward per Vote  | 0.000021752850609 |
+| Update Account Balance | 81.8196262 | 
 
 
 Addresses:  
