@@ -31,24 +31,24 @@ If this plan works as designed, we will have developed *both* the first rock sol
 
 In order to make our rewards payouts happen at a consistent time, we will be issuing the airdrop every 36 hours until it has become fully automated. It will include the previous 6 election cycles and will airdrop at 00:00 and 12:00 EST.
 
-2018-07-08:0000 through 2018-07-09:0600 (inclusive)
+2018-07-10:0000 through 2018-07-12:0600 (inclusive)
 
-| Effective Yield | 0.53% Annual |  
+| Effective Yield | 0.32% Annual |  
 | -------------------- | -------------------- |
-| Date | 10 July 2018 |  
-| Account Balance | 70.166406 | 
-| Date Vote Total |  535710 |  
-| Rewards Claimed | 29.133049 |
-| Daily Contribution | 23.306439 |  
-| Update Account Balance | 93.472845 |  
-| 1.869456904 > 11.6532196 | YES |
-| Airdrop Amount | 11.653219 |  
-| Today's Reward per Vote  | 0.000021752850609 |
-| Update Account Balance | 81.8196262 | 
+| Date | 12 July 2018 |  
+| Account Balance | 81.819626 | 
+| Date Vote Total | 5164854 |  
+| Rewards Claimed | 173.028318 |
+| Daily Contribution | 138.422654 |  
+| Update Account Balance | 220.242280 |  
+| 4.404845608 > 69.2113272 | NO |
+| Airdrop Amount | 69.211327 |  
+| Today's Reward per Vote  | 0.000013400442103 |
+| Update Account Balance | 151.030952 | 
 
 
 Addresses:  
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
 Payout Account (piggy bank): [TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa](https://tronscan.org/#/address/TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa)  
 Airdrop Address: [TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY](https://tronscan.org/#/address/TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY)  
-Company Savings: [TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx](https://tronscan.org/#/address/TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx)  
+Company Operations: [TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx](https://tronscan.org/#/address/TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx)  
