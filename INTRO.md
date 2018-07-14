@@ -5,14 +5,11 @@ Our Mission is to become an intellectual asset for the community. We expect othe
 By sharing our IT strategies, it is our hope to strengthen the entire blockchain industry and advance the determination of best practices. 
 
 Website:
-[tron.communitynode.org](http://tron.communitynode.org)
-
+[tron.communitynode.org](http://tron.communitynode.org)  
 Telegram:
-[TRON Community Node & Super Representative](https://t.me/CommunityNode)
-
+[TRON Community Node & Super Representative](https://t.me/CommunityNode)  
 Twitter:
-[@community_node](https://twitter.com/community_node)
-
+[@community_node](https://twitter.com/community_node)  
 GitHub:
 [https://github.com/bondibox/community-node/](https://github.com/bondibox/community-node/)  
 
@@ -31,20 +28,20 @@ If this plan works as designed, we will have developed *both* the first rock sol
 
 In order to make our rewards payouts happen at a consistent time, we will be issuing the airdrop every 36 hours until it has become fully automated. It will include the previous 6 election cycles and will airdrop at 00:00 and 12:00 EST.
 
-2018-07-10:0000 through 2018-07-12:0600 (inclusive)
+2018-07-12:1200 through 2018-07-13:1800 (inclusive)
 
-| Effective Yield | 0.32% Annual |  
+| Effective Yield | 0.29% Annual |  
 | -------------------- | -------------------- |
-| Date | 12 July 2018 |  
-| Account Balance | 81.819626 | 
-| Date Vote Total | 5164854 |  
-| Rewards Claimed | 173.028318 |
-| Daily Contribution | 138.422654 |  
-| Update Account Balance | 220.242280 |  
-| 4.404845608 > 69.2113272 | NO |
-| Airdrop Amount | 69.211327 |  
-| Today's Reward per Vote  | 0.000013400442103 |
-| Update Account Balance | 151.030952 | 
+| Date | 13 July 2018 |  
+| Account Balance | 151.030952 | 
+| Date Vote Total | 8111200 |  
+| Rewards Claimed | 242.353528  |
+| Daily Contribution | 193.882822 |  
+| Update Account Balance | 344.913774 |  
+| 4.404845 > 96.941411 | NO |
+| Airdrop Amount | 96.941411 |  
+| Today's Reward per Vote  | 0.000011951549832 |
+| Update Account Balance | 247.972363 | 
 
 
 Addresses:  
