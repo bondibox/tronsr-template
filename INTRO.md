@@ -33,7 +33,7 @@ Starting July 17 rewards will be airdropped once weekly until fully automated.
 
 2018-07-15:1200 through 2018-07-16:1800 (inclusive)
 
-| Effective Yield | 0.% Annual |  
+| Effective Yield | 0.29% Annual |  
 | -------------------- | -------------------- |
 | Date |  July 2018 |  
 | Account Balance | 335.936201 | 
