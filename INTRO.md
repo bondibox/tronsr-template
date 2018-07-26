@@ -39,7 +39,7 @@ Starting July 17 rewards will be airdropped once weekly until fully automated.
 | Account Balance | 429.069716 | 
 | Period Vote Total |  42384645 |  
 | Rewards Claimed | 1,145.074585  |
-| Daily Contribution | 916.059668 |  
+| Account Contribution | 916.059668 |  
 | Update Account Balance | 1345.129384 |  
 | 26.90258768 > 458.029834 | NO |
 | Airdrop Amount | 458.029834 |  
