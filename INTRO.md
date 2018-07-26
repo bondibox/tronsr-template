@@ -31,20 +31,20 @@ In order to make our rewards payouts happen at a consistent time, we will be iss
 This rewards system is still in Beta test phase and inconsistencies may occur due to voting fluctuations and human error.
 Starting July 17 rewards will be airdropped once weekly until fully automated.
 
-2018-07-15:1200 through 2018-07-16:1800 (inclusive)
+2018-07-17:1200 through 2018-07-24:1800 (inclusive)
 
-| Effective Yield | 0.29% Annual |  
+| Effective Yield | 0.337% Annual |  
 | -------------------- | -------------------- |
-| Date |  July 2018 |  
-| Account Balance | 335.936201 | 
-| Date Vote Total | 7791387 |  
-| Rewards Claimed | 232.833787   |
-| Daily Contribution | 186.267029 |  
-| Update Account Balance | 522.203230 |  
-| 10.444064612 > 93.133514 | NO |
-| Airdrop Amount | 93.133514 |  
-| Today's Reward per Vote  | 0.000011953393407 |
-| Update Account Balance | 0.000011953393407 | 
+| Date | 25 July 2018 |  
+| Account Balance | 429.069716 | 
+| Period Vote Total |  42384645 |  
+| Rewards Claimed | 1,145.074585  |
+| Daily Contribution | 916.059668 |  
+| Update Account Balance | 1345.129384 |  
+| 26.90258768 > 458.029834 | NO |
+| Airdrop Amount | 458.029834 |  
+| Today's Reward per Vote  | 0.000010806503959 |
+| Update Account Balance | 887.09955 | 
 
 
 Addresses:  
