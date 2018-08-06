@@ -28,8 +28,6 @@ When the Super Representative Program ends in 2021, we will use all of the exper
 
 If this plan works as designed, we will have developed *both* the first rock solid cryptocurrency denominated investment with an advertised daily interest rate, **and** a hardware investment in the Tron network that is, at a minimum, equal to 1.3 Million TRX in 2021 dollars. 
 
-In order to make our rewards payouts happen at a consistent time, we will be issuing the airdrop every 36 hours until it has become fully automated. It will include the previous 6 election cycles and will airdrop at 00:00 and 12:00 EST.
-
 This rewards system is still in Beta test phase and inconsistencies may occur due to voting fluctuations and human error.
 Starting July 17 rewards will be airdropped once weekly until fully automated.
 
