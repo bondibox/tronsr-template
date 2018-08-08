@@ -33,12 +33,12 @@ Starting July 17 rewards will be airdropped once weekly until fully automated.
 
 2018-07-25:0000 through 2018-08-02:1800 (inclusive)
 
-| -------------------- | -------------------- |
+| -------------------- | -------------------- |  
 | Date | 2 August 2018 |   
 | Period Vote Total |  18252964 |  
-| Rewards Claimed | 1,529.112672  |
+| Rewards Claimed | 1,529.112672  |  
 | Airdrop Amount | 1223.290137 |  
-| Today's Reward per Vote  | 0.000067018711975 |
+| Today's Reward per Vote  | 0.000067018711975 |  
 
 
 
