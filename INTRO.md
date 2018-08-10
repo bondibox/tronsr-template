@@ -16,20 +16,20 @@ GitHub:
 [https://github.com/bondibox/community-node/](https://github.com/bondibox/community-node/)  
 
 
-We have developed a [Rewards Plan](https://github.com/bondibox/community-node/blob/master/doc/rewards_plan.md) for the TRX voters who elect us to SR position. 
+We have developed a [Rewards Plan](http://www.communitynode.org/rewards/index) for the TRX voters who elect us to SR position. 
 
-We can create a stable, predictable voter payout by putting 80% of everything we earn into a *Payout Account* (a.k.a. the piggy bank), this is called the *Daily Contribution*. And every day we will pay our voters half of the Daily Contribution, or 2% of what's in the Payout Account, whichever is more. 
+We can create a stable, predictable voter payout by putting away a tiny fraction of every day's earnings.
 
-In real terms, that means the payout pool will start out at about 15,000 TRX every day we win. If we lose, the daily payout pool will be 2% of the Payout Account Total. When the Payout Account Total equals 650 Million TRX the Daily Payout will be the same whether we win or lose. At that point we will implement our participation bonus which gives a small increase per vote based on a voter's lifetime participation in voting for Community Node.
+In overly simplified terms, we will airdrop 78% of our earned rewards, and put 2% aside as a reserve. The mechanics on how we achieve this is to take the whole 80% and put it into a *Payout Account* (a.k.a. the piggy bank). And every day we will pay our voters a slightly smaller percentage of the piggy bank. On day one the percentage will be 99%. Each day as the total Payout Account grows, the amount we take gets a little bit smaller but it always stays about 78% of our daily take. 
 
-When the Payout Account has 1.3 million TRX in it, the Daily Payout Pool will be equal to the Daily Contribution and the Daily Payout will cap out at exactly 80% of node rewards, or about 30,000 TRX per day.
+As the piggy bank grows, we can loan that TRX to ourselves to give the voter rewards before we have claimed our 24 hour allowance, so we can pay a reward every 6 hours.
 
-When the Super Representative Program ends in 2021, we will use all of the expertise we've gained to continue to run the Tron network. When the program ends, we will spend the entire 1.3 Million TRX that we've accrued in the Payout Account to buy hardware infrastructure on an enterprise level.
+The second thing the piggy bank does is it smooths out the fluctuations in our earnings so we can accurately predict how much tomorrow's airdrop will be.
 
-If this plan works as designed, we will have developed *both* the first rock solid cryptocurrency denominated investment with an advertised daily interest rate, **and** a hardware investment in the Tron network that is, at a minimum, equal to 1.3 Million TRX in 2021 dollars. 
+Since the daily reward per vote depends on how many votes we get it would normally be difficult to predict the actual reward, but since the piggy bank smooths out the fluctuations we can start to base the reward on our weekly average of votes. By combining the piggy bank's two features we can set the rate of the reward before the election cycle so the voters will know exactly how much their votes are worth.
 
 This rewards system is still in Beta test phase and inconsistencies may occur due to voting fluctuations and human error.
-Starting July 17 rewards will be airdropped once weekly until fully automated.
+Rewards will be airdropped once weekly until fully automated.
 
 2018-07-25:0000 through 2018-08-02:1800 (inclusive)
 
