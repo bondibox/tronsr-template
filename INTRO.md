@@ -31,13 +31,13 @@ Since the daily reward per vote depends on how many votes we get it would normal
 This rewards system is still in Beta test phase and inconsistencies may occur due to voting fluctuations and human error.
 Rewards will be airdropped once weekly until fully automated.
 
-2018-08-13:0000 through 2018-08-19:1000 (inclusive)  
-|Effective Annual Yield | 2.02 % |
+2018-08-20:0000 through 2018-08-23:1000 (inclusive)  
+|Effective Annual Yield | 4.5% |
 | -------------------- | -------------------- |    
-| Period Vote Total | 69183464 |  
-| Rewards Claimed |  1198.692176  |  
-| Airdrop Amount | 958.9537408 |  
-| Today's Reward per Vote  | 0.000013861025242 |  
+| Period Vote Total | 20015424 |  
+| Rewards Claimed |  775.59228  |  
+| Airdrop Amount | 620.473824 |  
+| Today's Reward per Vote  | 0.000030999784166 |  
 
 
 
