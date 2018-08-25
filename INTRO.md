@@ -1,8 +1,10 @@
-The Community Node organization is an open source collaboration in the blockchain space. 
+The Community Node organization is the service oriented Super Representative group. We are here to assist the community with our [Tron Help Group](https://t.me/TronHelp), as well as other services offered.
 
 Our Mission is to become an intellectual asset for the community. We expect other cryptocurrencies to use Tron's open source application as a starting point for their blockchain networks, as well as Tron's Super Representative structure, and those Super Representatives will be creating organizations very similar to ours. We chose to make our project Open Source in order to provide a blueprint for those who come after us.
 
 By sharing our IT strategies, it is our hope to strengthen the entire blockchain industry and advance the determination of best practices. 
+
+Our initiatives are designed to bring new users into the Tron blockchain, as well as increase economic activity among current users.
 
 Website:
 [www.communitynode.org](http://www.communitynode.org)  
@@ -16,33 +18,20 @@ GitHub:
 [https://github.com/bondibox/community-node/](https://github.com/bondibox/community-node/)  
 
 
-We have developed a [Rewards Plan](http://www.communitynode.org/rewards/index) for the TRX voters who elect us to SR position. 
+We have developed a Rewards Plan for the TRX voters who elect us to SR position. 
 
-We can create a stable, predictable voter payout by putting away a tiny fraction of every day's earnings.
+No more complicated formulas or percentages.
 
-In overly simplified terms, we will airdrop 78% of our earned rewards, and put 2% aside as a reserve. The mechanics on how we achieve this is to take the whole 80% and put it into a *Payout Account* (a.k.a. the piggy bank). And every day we will pay our voters a slightly smaller percentage of the piggy bank. On day one the percentage will be 99%. Each day as the total Payout Account grows, the amount we take gets a little bit smaller but it always stays about 78% of our daily take. 
+1 vote = 50 sun
 
-As the piggy bank grows, we can loan that TRX to ourselves to give the voter rewards before we have claimed our 24 hour allowance, so we can pay a reward every 6 hours.
+20,000 votes = 1 TRX
 
-The second thing the piggy bank does is it smooths out the fluctuations in our earnings so we can accurately predict how much tomorrow's airdrop will be.
+Four times a day we will airdrop this reward to our voters.
 
-Since the daily reward per vote depends on how many votes we get it would normally be difficult to predict the actual reward, but since the piggy bank smooths out the fluctuations we can start to base the reward on our weekly average of votes. By combining the piggy bank's two features we can set the rate of the reward before the election cycle so the voters will know exactly how much their votes are worth.
-
-This rewards system is still in Beta test phase and inconsistencies may occur due to voting fluctuations and human error.
-Rewards will be airdropped once weekly until fully automated.
-
-2018-08-20:0000 through 2018-08-23:1000 (inclusive)  
-|Effective Annual Yield | 4.5% |
-| -------------------- | -------------------- |    
-| Period Vote Total | 20015424 |  
-| Rewards Claimed |  775.59228  |  
-| Airdrop Amount | 620.473824 |  
-| Today's Reward per Vote  | 0.000030999784166 |  
-
+We will revise the payout number daily, as needed.
 
 
 Addresses:  
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
-Payout Account (piggy bank): [TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa](https://tronscan.org/#/address/TPb5yuu5oRj7NC5vjC1EBRZCT4xUcC8WRa)  
-Airdrop Address: [TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY](https://tronscan.org/#/address/TWKQFC8P4BbTLxJAMFLPL1JCpH3HbxSFaY)  
+Airdrop Address: [TXUTmSqBoWEWtJDD1hfEvqJd3a6YQJ8Jc6](https://tronscan.org/#/address/TXUTmSqBoWEWtJDD1hfEvqJd3a6YQJ8Jc6)  
 Company Operations: [TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx](https://tronscan.org/#/address/TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx)  
