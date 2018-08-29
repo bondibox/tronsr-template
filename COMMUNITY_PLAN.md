@@ -1,4 +1,4 @@
-We want to show the world how easy it is to use the Tronix cryptocurrency and the Tron mainnet blockchain. One someone joins our [Telegram chat](https://t.me/CommunityNode) they will automatically receive a Tron wallet filled with 2 TRX and 1,000 CommunityNodeTokens which they can use to test the Tron blockchain with no risk.
+We want to show the world how easy it is to use the Tronix cryptocurrency and the Tron mainnet blockchain. When someone joins our [Telegram chat](https://t.me/CommunityNode) they will automatically receive a Tron wallet filled with 2 TRX and 1,000 CommunityNodeTokens which they can use to test the Tron blockchain with no risk.
 
 We will create a How To demonstration for a simple dapp game that flips a coin and pays tokens when guessed correctly. Users can use this dapp as a basic API to a Tron smart contract to get started with the most powerful features of the Tron blockchain.
 
