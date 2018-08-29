@@ -9,7 +9,7 @@ Our Primary cluster surrounds our Witness node with 5 Sentry nodes, which connec
 Currently we are starting with the following setup:
 
 1 Primary Witness Node   
-1 Backup Witness Node 
+1 Backup Witness Node  
 5 Full Nodes
 
 Our next technical expansion will be to purchase a primary witness 128 core server with 1.5 TB of RAM, and colocate it along with 5 full nodes in Louisville KY on Flexential's 100 GbPS backbone.
