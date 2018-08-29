@@ -1,34 +1,32 @@
-We will be building our primary cluster instance at the Linode data center in Atlanta Georgia, USA., where they offer an OC768 incoming network connection, with 40 Gbps in and 10 Gbps out. We believe that the incoming network connection will be critical for the Super Representative nodes.
+A witness node is more than just a block producer. It also provides CPU flops, memory, and storage for the Tron Virtual Machine (TVM).
 
-Because the Tron Virtual Machine acts like one big symmetric multiprocessor cluster, we do not need a one-size-fits-all server instance, instead we will be building several server instances each with a specific task.
+A Super Representative faces a two-pronged technical responsibility: Make resources available while protecting the Witness node providing those resources.
 
-A Super Representative faces two technical responsibilities. The mission critical component is running a well protected Witness Node. Then you must make available lots of flops and storage for TVM the Tron Virtual Machine.
+Our primary witness cluster is at the Linode data center in Atlanta Georgia, USA., where they offer an OC768 incoming network connection, with 40 Gbps in and up to 12 Gbps out. Too many witness nodes are using Alibaba, Google and AWS hosting services. An outage at one or all could be catastrophic to the Tron network. Therefore we have chosen a reliable alternative to these other providers.
 
-Our Primary cluster will surround our Witness node with 6 Sentry nodes, which connect to the Witness via an IPSec tunnel. This cloaks the witness from the outside world, and allows it to advertise a private IP address. The 6 Sentry nodes act as the point of contact for the witness node, meaning a successful DDoS attack would have to discover and compromise all 6 Sentries. The Sentries will then be surrounded by unprotected Full Nodes which do the heavy lifting of the network. 8 of these nodes are configured to provide the most resources per dollar, and 4 are provisioned with 40/10 Gbps network connections for a total of more than 50 Gbps outbound bandwidth, since total bandwidth is the sum of all the nodes' guaranteed throughput.
+Our Primary cluster surrounds our Witness node with 5 Sentry nodes, which connect to the Witness via an IPSec tunnel. This cloaks the witness from the outside world, and allows it to advertise a private IP address. The Sentry nodes act as the point of contact for the witness node, meaning a successful DDoS attack would have to discover and compromise all 5 Sentries. 
 
 Currently we are starting with the following setup:
 
 1 Primary Witness Node   
 1 Backup Witness Node 
-1 Solidity Node  
+5 Full Nodes
 
-For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
-
-
+Our next technical expansion will be to purchase a primary witness 128 core server with 1.5 TB of RAM, and colocate it along with 5 full nodes in Louisville KY on Flexential's 100 GbPS backbone.
 
 
-| Primary Witness |
+| Witness Node |
 |---|---|
 | RAM |          192 GB  | 	
 | CPU  |         32 Cores  | 	
 | SSD  |         3.8 TB  | 	
-| Network |      40/10 Gbps  | 	
+| Network |      40/12 Gbps  | 	
 | Transfer |  20 TB |
 | Cost |         $960 month |
-| Purpose | High CPU / High bandwidth node |  
+| Purpose | Block Production |  
 
 
-| Backup Witness  |  
+| Full Nodes |  
 |---|---|  
 | RAM | 	64 GB  
 | CPU  | 	16 Cores  
@@ -36,19 +34,9 @@ For every .04¢ gain in TRX price we will add another 96 cores to our cluster.
 | Network  | 	40/4 Gbps  
 | Transfer | 20 TB |  
 | Cost | 	$320 month   
-| Purpose |  Lowest Resource Cost | 
+| Purpose |  Protect Block Producer | 
 
 
 
-| Solidity Node  | 
-|---|---|
-| RAM | 	          32 GB | 
-| CPU  | 	          8 Cores  | 	
-| SSD  | 	      	640 GB|  	
-| Network  |          40/2 Gbps  | 	
-| Transfer | 16 TB |
-| Cost |      $160 month| 
-| Purpose |   API for wallet services  | 
-         
 
 
