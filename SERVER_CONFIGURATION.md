@@ -4,7 +4,7 @@ A Super Representative faces a two-pronged technical responsibility: Make resour
 
 Our primary witness cluster is at the Linode data center in Atlanta Georgia, USA., where they offer an OC768 incoming network connection, with 40 Gbps in and up to 12 Gbps out. Too many witness nodes are using Alibaba, Google and AWS hosting services. An outage at one or all could be catastrophic to the Tron network. Therefore we have chosen a reliable alternative to these other providers.
 
-Our Primary cluster surrounds our Witness node with 5 Sentry nodes, which connect to the Witness via an IPSec tunnel. This cloaks the witness from the outside world, and allows it to advertise a private IP address. The Sentry nodes act as the point of contact for the witness node, meaning a successful DDoS attack would have to discover and compromise all 5 Sentries. 
+Our Primary cluster surrounds our Witness node with 5 Sentry nodes, which connect to the Witness via IPSec tunnels. This cloaks the witness from the outside world, and allows it to advertise a private IP address. The Sentry nodes act as the point of contact for the witness node, meaning a successful DDoS attack would have to discover and compromise all 5 Sentries. 
 
 Currently we are starting with the following setup:
 
