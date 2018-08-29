@@ -1,12 +1,7 @@
-We have created a staging network which is a replica of the Tron network and which will allow the community to practice with wallets and to beta test the behavior of newly created dapps. [It is already working in alpha](https://twitter.com/bondibox/status/991872321559261184) with 2 witnesses and 2 seed nodes.  We will continue the expansion of our test net to include solidity nodes and web wallets.
+We want to show the world how easy it is to use the Tronix cryptocurrency and the Tron mainnet blockchain. One someone joins our [Telegram chat](https://t.me/CommunityNode) they will automatically receive a Tron wallet filled with 2 TRX and 1,000 CommunityNodeTokens which they can use to test the Tron blockchain with no risk.
 
-We will create a How To demonstration for a simple dapp game that flips a coin and pays tokens when guessed correctly. Users can upload this dapp to the staging network to experience the same functionality as the Tron main net.
+We will create a How To demonstration for a simple dapp game that flips a coin and pays tokens when guessed correctly. Users can use this dapp as a basic API to a Tron smart contract to get started with the most powerful features of the Tron blockchain.
 
-We have entered into a strategic partnership with the Sesame Seeds SR Group to provide community support on a broader level than either of us is able to provide on our own. Together we are operating a [TRON Help Group](https://t.me/TronHelp) at Telegram to answer questions related to the Tron main net. 
-
-We have contributed to the Tron Wiki and have pushed one set of changes.  
+We have partnered with with the rest of the Tron Super Representatives to provide community support on a broader level than any of us is able to provide on our own. Together we are operating a [TRON Help Group](https://t.me/TronHelp) at Telegram to answer questions related to the Tron main net. 
 
 In keeping with our open source ideology, we will also be pooling our collective knowledge and establishing best practices for the rest of the SR community, and we will publish that information in a fork of the Official Tron documentation.
-
-We are also holding a contest for the best main net java dapp, prize is 10,240 TRX payable from our node's first day of block rewards. Good for 10 dapp uploads on the Tron main net.
-
