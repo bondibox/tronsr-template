@@ -13,7 +13,7 @@ Telegram:
 Twitter:
 [@community_node](https://twitter.com/community_node)  
 Tron Help Desk - by Community Node
-[https://t.me/TronHelp](https://t.me/TronHelp)
+[https://t.me/TronHelp](https://t.me/TronHelp)  
 GitHub:
 [https://github.com/bondibox/community-node/](https://github.com/bondibox/community-node/)  
 
