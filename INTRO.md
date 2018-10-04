@@ -1,6 +1,6 @@
-The Community Node organization is the service oriented Super Representative group. We are here to assist the community with our [Tron Help Group](https://t.me/TronHelp), as well as other services offered.
+The Community Node organization began by being a technical leader in the Tron blockchain project, and we will remain at the forefront of server performance. A Tron Super Representative has many responsibilities, but let us not forget the #1 purpose - to run a high performance blockchain node.
 
-We began by being a technical leader in the Tron blockchain project, and we will remain at the forefront of server performance. A Tron Super Representative has many responsibilities, but let us not forget the #1 purpose - to run a high performance blockchain node.
+We are the service oriented Super Representative group. We are here to assist the community with our [Tron Help Group](https://t.me/TronHelp), as well as other services offered.
 
 Adoption of the Tronix protocol via DApps is a good way to engage TRX holders and increase transaction activity, but it might not be a sure way to bring on new users. We believe e-commerce is the path to adoption. Coming from a background of Ruby on Rails, our choice is to lead the development of a Ruby cryptocurrency payment gem for the Solidus e-commerce platform, putting into the public domain a no cost or low cost (<1%) payment solution.
 
