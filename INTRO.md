@@ -22,7 +22,7 @@ We have developed a Rewards Plan for the TRX voters who elect us to SR position.
 
 No more complicated formulas or percentages.
 
-1 vote = 25 sun
+1 vote = 25 sun (1 'sun' = 0.000001 TRX)
 
 10,000 votes = .25 TRX
 
