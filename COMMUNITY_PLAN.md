@@ -1,4 +1,4 @@
-We want to show the world how easy it is to use the Tronix cryptocurrency and the Tron mainnet blockchain. Using the GoSeedit bot, when someone joins our [Telegram chat](https://t.me/CommunityNode) they will automatically receive a Tron wallet filled with 2 TRX and 1,000 CommunityNode tokens which they can use to test the Tron blockchain with no risk. This 'tchotchke' bot is available via the github repository.
+We want to show the world how easy it is to use the Tronix cryptocurrency and the Tron mainnet blockchain. Using the GoSeedit bot, when someone joins our [Telegram chat](https://t.me/CommunityNode) they will automatically receive a Tron wallet filled with 2 TRX and 1,000 CommunityNode tokens which they can use to test creating new wallets on the Tron blockchain with no risk. This 'tchotchke' bot is available via the github repository.
 
 We will also adapt this tchotcke bot to the Twitter API.
 

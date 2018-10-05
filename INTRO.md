@@ -31,7 +31,6 @@ Four times a day we will airdrop this reward to our voters.
 
 Addresses:  
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
-Airdrop Address: [TXUTmSqBoWEWtJDD1hfEvqJd3a6YQJ8Jc6](https://tronscan.org/#/address/TXUTmSqBoWEWtJDD1hfEvqJd3a6YQJ8Jc6)  
-Company Operations: [TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx](https://tronscan.org/#/address/TEzjNLQtH4neJTjZ9Qgfn2qi4qV65h4Pfx)  
+Airdrop Address: [TFN69PhBf27fZEnVHVr8im9AC1BxvLrUzE](https://tronscan.org/#/address/TFN69PhBf27fZEnVHVr8im9AC1BxvLrUzE)  
 
 rev. 2018-10-04
