@@ -14,11 +14,11 @@ Twitter:
 [@community_node](https://twitter.com/community_node)  
 Tron Help Desk - by Community Node
 [https://t.me/TronHelp](https://t.me/TronHelp)  
-GitHub:
-[https://github.com/bondibox/community-node/](https://github.com/bondibox/community-node/)  
+GitHub Projects:
+[https://github.com/bondibox/](https://github.com/bondibox/)  
 
 
-We have developed a Rewards Plan for the TRX voters who elect us to SR position. 
+We have developed a [Rewards Plan](https://www.communitynode.org/rewards/index) for the TRX voters who elect us to SR position. 
 
 No more complicated formulas or percentages.
 
@@ -33,4 +33,4 @@ Addresses:
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
 Airdrop Address: [TFN69PhBf27fZEnVHVr8im9AC1BxvLrUzE](https://tronscan.org/#/address/TFN69PhBf27fZEnVHVr8im9AC1BxvLrUzE)  
 
-rev. 2018-10-04
+rev. 2018-11-06
