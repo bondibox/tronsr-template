@@ -22,9 +22,11 @@ We have developed a [Rewards Plan](https://www.communitynode.org/rewards/index) 
 
 No more complicated formulas or percentages.
 
-1 vote = 0.000020 TRX
 
-10,000 votes = .20 TRX
+**CURRENT PAYOUT**  
+1 vote = 0.000065 TRX
+
+10,000 votes = .65 TRX
 
 Four times a day we will airdrop this reward to our voters.
 
@@ -33,4 +35,4 @@ Addresses:
 Main SR Address: [TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP](https://tronscan.org/#/address/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
 Airdrop Address: [TFN69PhBf27fZEnVHVr8im9AC1BxvLrUzE](https://tronscan.org/#/address/TFN69PhBf27fZEnVHVr8im9AC1BxvLrUzE)  
 
-rev. 2018-11-06
+rev. 2018-11-09
