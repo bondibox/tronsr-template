@@ -8,23 +8,16 @@ Role: CEO, CTO
 
 ## Team Member 1
 
-Name: [Greg](https://github.com/bondibox/community-node/blob/master/sr_application/greg.jpg)  
-Role: WAN Strategist
+Name: Colradi  
+Role: Application Development
 
-> Greg is a SysAdmin for a leading Aerospace Manufacturer with over 90,000 users located around the globe. Over the past 12 years Greg has worked his way up the IT ladder learning many different products, software, and systems along the way. He currently holds a Bachelor in Networks and Communication and is near to completing his Technology focused MBA. Greg is an avid believer in the Tron Network Project and is excited to witness and be involved with its creation.
-
+>  Colradi is a computer engineer in love with blockchain. He worked as an IT consultant and Java teacher for (too) many years in Madrid. Now he enjoys the inner peace of the mediterranean ocean, near Barcelona, and spends his days involved in a neverending Javascript project.
 
 
 ## Team Member 2
 
-Name: Colradi  
-Role: Application Education
+Name: [Greg](https://github.com/bondibox/community-node/blob/master/sr_application/greg.jpg)  
+Role: At-large member
 
->  Colradi is a computer engineer in love with blockchain. He worked as an IT consultant and Java teacher for (too) many years in Madrid. Now he enjoys the inner peace of the mediterranean ocean, near Barcelona, and spends his days involved in a neverending Javascript project.
+> Greg is a SysAdmin for a leading Aerospace Manufacturer with over 90,000 users located around the globe. Over the past 12 years Greg has worked his way up the IT ladder learning many different products, software, and systems along the way. He currently holds a Bachelor in Networks and Communication and is near to completing his Technology focused MBA. Greg is an avid believer in the Tron Network Project and is excited to witness and be involved with its creation.
 
-## Team Member 3
-
-Name: [Duane Harrison](https://github.com/bondibox/community-node/blob/master/sr_application/duane_harrison.jpg)  
-Role: UX Designer
-
-> Duane Harrison is a lead designer for one of the world’s largest airlines. Prior to this he has worked with a number of startups, overseeing and contributing to the design of mobile and web apps, one of which has featured in Apple’s WWDC keynote. Now based in Hong Kong, he is looking towards digital transformation in the financial space and sees huge potential in future applications that build on the Tron network.

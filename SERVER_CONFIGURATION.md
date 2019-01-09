@@ -30,13 +30,3 @@ Currently we are starting with the following setup:
 | Cost | 	$320 month   
 | Purpose |  Protect Block Producer | 
 
-
-Our benchmark tests have shown that the performance bottleneck is not CPU or RAM, but disk i/o. In other words it doesn't matter how much resources have been provisioned for the VM, if it is on a busy server with several high traffic VM instances there will be a disk queue that slows performance. In testing 16 core vs. 32 core VMs, the 32 core instance did not always perform better, and in fact usually did not. 
-
-Therefore, for the rollout of the Tron Virtual Machine we will have a bare metal server with a 10 Gbps unmetered connection. Initially this machine will run a hypervisor and several VMs, each with its own 15k rpm SAS drive. The VM running the witness node will have 2 SAS drives in a RAID 0 configuration to optimize read functions, with 24 dedicated cores and 96 GB dedicated RAM.
-
-Based on performance needs, our next step is to deploy a second server at the same location with higher RAM and CPU specs, and SSD storage.
-
-Eventually our deployment will consist of a catalyst switch and 4 x 10 Gbps connections, using routing protocols to aggregate the bandwidth to the primary server which will also have 4 x 10 Gbps network cards.
-
-

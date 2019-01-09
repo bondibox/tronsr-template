@@ -1,4 +1,10 @@
-The Community Node SR Candidate is an organization which stays on the leading edge of the Tron blockchain and passes that information on to the community at large. We are professional node operators who are available on Tron's Discord server to answer questions about java machines or the APIs they provide. 
+The Community Node SR group is an organization which stays on the leading edge of the Tron blockchain.
+
+We are leaders in Tron node operation, scripting and blockchain development.
+
+We are available for hire as IT specialists and blockchain solution developers.
+
+Find us on Tron's Discord server or our telegram chan where we'll answer questions about java machines or the APIs they provide. 
 
 
 Website:
@@ -7,8 +13,9 @@ Telegram:
 [TRON Community Node & Super Representative](https://t.me/CommunityNode)  
 Twitter:
 [@community_node](https://twitter.com/community_node)  
+TRUC Token:
+[https://tronscan.org/#/token/CommunityNodeToken](https://tronscan.org/#/token/CommunityNodeToken/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)
 
 
 
-
-rev. 2018-12-12
+rev. 2019-01-09

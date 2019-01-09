@@ -1,4 +1,1 @@
-Our job is to promote the adoption of the Tron blockchain for use in distributed applications and transactions of TRX cryptocurrency.
-
-We have airdropped more than 300,000 CommunityNodeTokens to our Telegram community.
-
+We are using our Super Representative candidate allowance to give value to our CommunityNodeToken (TRUC). We have airdropped more than 300,000 of these tokens to Tron voters and members of our telegram channel. We will continue to give the TRUC token value and to increase its circulating supply. 
