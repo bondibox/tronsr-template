@@ -1,6 +1,4 @@
-The Community Node SR group is an organization which stays on the leading edge of the Tron blockchain.
-
-We are leaders in Tron node operation, scripting and blockchain development.
+The Community Node SR group are leaders in Tron node operation, scripting and blockchain development. We were the first Super Representative candidate to produce blocks on the Tron test net in April, 2018.
 
 We are available for hire as IT specialists and blockchain solution developers.
 
@@ -15,7 +13,8 @@ Twitter:
 [@community_node](https://twitter.com/community_node)  
 TRUC Token:
 [https://tronscan.org/#/token/CommunityNodeToken](https://tronscan.org/#/token/CommunityNodeToken/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)
+TRUC Whitepaper:
+[https://github.com/bondibox/TRUC](https://github.com/bondibox/TRUC)
 
 
-
-rev. 2019-01-09
+rev. 2019-01-29
