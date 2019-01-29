@@ -12,7 +12,7 @@ Telegram:
 Twitter:
 [@community_node](https://twitter.com/community_node)  
 TRUC Token:
-[https://tronscan.org/#/token/CommunityNodeToken](https://tronscan.org/#/token/CommunityNodeToken/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)
+[https://tronscan.org/#/token/CommunityNodeToken](https://tronscan.org/#/token/CommunityNodeToken/TDGy2M9qWBepSHDEutWWxWd1JZfmAed3BP)  
 TRUC Whitepaper:
 [https://github.com/bondibox/TRUC](https://github.com/bondibox/TRUC)
 
