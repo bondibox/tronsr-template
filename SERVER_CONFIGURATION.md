@@ -10,23 +10,22 @@ Currently we are starting with the following setup:
 
 | Witness Node |
 |---|---|
-| RAM |          192 GB  | 	
-| CPU  |         32 Cores  | 	
-| SSD  |         3.8 TB  | 	
-| Network |      40/12 Gbps  | 	
-| Transfer |  20 TB |
+| RAM |          300 GB  | 	
+| CPU  |         16 Cores  | 	
+| SSD  |         340 GB  | 	
+| Network |      40/9 Gbps  | 	
+| Transfer |  9 TB |
 | Cost |         $960 month |
 | Purpose | Block Production |
-| Benchmark | 7.3 maxTimeRatio |
 
 
 | Full Nodes |  
 |---|---|  
 | RAM | 	64 GB  
-| CPU  | 	16 Cores  
-| SSD  | 	1280 GB  
-| Network  | 	40/4 Gbps  
-| Transfer | 20 TB |  
-| Cost | 	$320 month   
+| CPU  | 	32 **Dedicated** Cores  
+| SSD  | 	400 GB  
+| Network  | 	40/8 Gbps  
+| Transfer | 8 TB |  
+| Cost | 	$480 month   
 | Purpose |  Protect Block Producer | 
 
