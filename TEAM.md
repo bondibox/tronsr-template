@@ -18,6 +18,13 @@ Role: Application Development
 
 
 ## Team Member 2
+Name: @TheGarbageCollector
+Role: At-large member, Telegram Admin
+
+> A machinist for 23 years, Mike makes small investments when his wallet allows. He made his plunge into the crypto world in December 2017 with his first purchase of TRX. Mike feels like he represents a good amount of the small guys in crypto. He has taken a serious interest in the Tron project and that led him straight into the arms of Community Node. Since then Mike has become a staunch supporter of our project through thick and thin.
+
+
+## Team Member 3
 
 Name: [Greg](https://github.com/bondibox/community-node/blob/master/img/greg.jpg)  
 Role: At-large member

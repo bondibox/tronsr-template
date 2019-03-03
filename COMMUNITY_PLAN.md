@@ -1,5 +1,3 @@
-We are using our Super Representative candidate allowance to give value to our CommunityNodeToken (TRUC). We have airdropped more than one million of these tokens to Tron voters and members of our telegram channel. We will continue to give the TRUC token value and to increase its circulating supply. 
+Community Node works to build the Tron community by providing tools and services which are useful and speed up the dapp development process. Our first project was the Keystore Regenerate app that lets you create a new tronscan keystore file. Other projects we are working on are an Airdrop GUI application to send TRX or Tokens to Tron addresses based on a list of token holders or candidate voters. We are also building trondata.io which will make available "big data," indexed searches, and time saving API's no longer available on standard Tron nodes.
 
-Truc Token Whitepaper[https://github.com/bondibox/TRUC](https://github.com/bondibox/TRUC)
-
-Once elected to Super Representative we will fund development projects specializing in ecommerce solutions.
+All of our services can be paid for with our TronHelp tokens which we give to our voters. We have set up a [TronHelp](https://t.me/TronHelp) telegram where developers can offer assistance in order to earn TronHelp tokens.

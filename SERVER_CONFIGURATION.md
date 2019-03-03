@@ -9,23 +9,27 @@ Our Primary cluster surrounds our Witness node with 3 Sentry nodes, which connec
 Currently we are starting with the following setup:
 
 | Witness Node |
-|---|---|
-| RAM |          300 GB  | 	
-| CPU  |         16 Cores  | 	
-| SSD  |         340 GB  | 	
-| Network |      40/9 Gbps  | 	
-| Transfer |  9 TB |
-| Cost |         $960 month |
+|---|---|  
+| RAM | 	96 GB **Dedicated** Memory  
+| CPU  | 	48 **Dedicated** Cores  
+| SSD  | 	600 GB  
+| Network  | 	40/9 Gbps  
 | Purpose | Block Production |
+
+
+| Standby Witness |
+|---|---|
+| RAM |          192 GB  | 	
+| CPU  |         32 Cores  | 	
+| SSD  |         3.8 TB  | 	
+| Network |      40/12 Gbps  | 	
+| Purpose |  Backup Witness Node | 
 
 
 | Full Nodes |  
 |---|---|  
 | RAM | 	64 GB  
-| CPU  | 	32 **Dedicated** Cores  
-| SSD  | 	400 GB  
-| Network  | 	40/8 Gbps  
-| Transfer | 8 TB |  
-| Cost | 	$480 month   
-| Purpose |  Protect Block Producer | 
-
+| CPU  | 	16 Cores  
+| SSD  | 	1.28 TB  
+| Network  | 	40/9 Gbps  
+| Purpose |  Protect Block Producer |
