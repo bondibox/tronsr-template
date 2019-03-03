@@ -1,4 +1,4 @@
-The Community Node SR group is a leader in Tron node operation, scripting, and blockchain development. We were the first Super Representative candidate to produce blocks on the Tron test net in April, 2018.
+The Community Node SR group is a leader in Tron node operation, scripting, and blockchain development. We were the first Tron community member to run a block producing node, with [300 blocks produced](https://twitter.com/bondibox/status/989842934899101696) on April 27, 2018.
 
 We are available for hire as IT specialists and blockchain solution developers.
 
