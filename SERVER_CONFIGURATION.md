@@ -16,6 +16,8 @@ Currently we are starting with the following setup:
 | Network  | 	40/9 Gbps  
 | Purpose | Block Production |
 
+<p><br /></p>
+
 
 | Standby Witness |
 |---|---|
@@ -24,6 +26,9 @@ Currently we are starting with the following setup:
 | SSD  |         3.8 TB  | 	
 | Network |      40/12 Gbps  | 	
 | Purpose |  Backup Witness Node | 
+
+
+<p><br /></p>
 
 
 | Full Nodes |  
